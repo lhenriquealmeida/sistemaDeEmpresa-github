@@ -61,8 +61,8 @@ public class Funcionarios {
     public String toString(){
     return "\n Nome do Funcionário: " + nome
           +"\n Cargo do funcionário: "+cargo
-            +"\nSalário bruto R$ " +salario
-            +"\nO salario liquido é, R$ "+salarioLiquido();
+          +"\n Salário bruto R$ " +salario
+          +"\n O salario liquido é, R$ "+salarioLiquido();
     }
     
     public double salarioLiquido(){
