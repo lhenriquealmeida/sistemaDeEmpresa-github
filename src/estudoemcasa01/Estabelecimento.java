@@ -20,7 +20,7 @@ public class Estabelecimento {
         Loja loja = new Loja();
         
         int opicao;
-        
+        System.out.println("");
         System.out.println("Seja bem-vindo a nossa plataforma para gerir uma empresa");
         System.out.println("");
         System.out.println("Dentre as opções, qual operação você deseja fazer?");
