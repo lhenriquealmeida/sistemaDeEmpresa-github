@@ -15,6 +15,7 @@ public class Loja {
     private String cnpj;
     private String endereco;
     private String vazio;
+    
     public Loja() {
     }
 

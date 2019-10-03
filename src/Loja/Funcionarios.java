@@ -67,7 +67,7 @@ public class Funcionarios {
     
     public double salarioLiquido(){
     double salarioLiquido=this.salario-5.0;
-    return salarioLiquido;    
+    return salarioLiquido;
     }
     
 }
